@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1483560695
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gamescene
+      Dependencies: {}
+    Info_1:
+      Name: 3dassets
+      Dependencies: {}
